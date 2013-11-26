@@ -4,7 +4,7 @@ QUICK INSTALL
 =============
 Put this entire directory at:
 
-PATHTOMOODLE/lib/editors/contenteditable
+PATHTOMOODLE/lib/editor/contenteditable
 
 Visit your site notifications page to install the new plugins.
 
